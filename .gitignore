@@ -1,0 +1,9 @@
+# 运行产生的文件，不要提交
+logs/
+collected/
+*.bak-*
+*.log
+
+# Windows
+desktop.ini
+Thumbs.db
